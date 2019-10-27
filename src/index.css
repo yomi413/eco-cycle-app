@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  padding: 0 100px 70px 100px;
 }
 
 code {
@@ -13,5 +14,16 @@ code {
 }
 
 .navbar-container {
+  color: #268a71;
+}
+
+.navbar {
   background-color: #268a71;
+}
+
+#map-header-one {
+}
+
+.table {
+  padding: 0 100px 70px 100px;
 }
