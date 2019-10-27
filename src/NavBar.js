@@ -8,6 +8,15 @@ class NavBar extends Component {
         <Navbar collapseOnSelect expand="lg" className="navbar">
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
+            <Navbar.Brand href="/">
+              <img
+                alt=""
+                src="https://i.imgur.com/aceZ4sh.png?1"
+                width="40"
+                height="40"
+                className="d-inline-block align-top"
+              />
+            </Navbar.Brand>
             <Nav className="mr-auto">
               <Nav.Link href="/water-fountains">Water Fountains</Nav.Link>
               <Nav.Link href="/trash-cans">Trash Cans</Nav.Link>

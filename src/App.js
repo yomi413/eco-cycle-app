@@ -11,6 +11,9 @@ function App() {
     <div>
       <NavBar />
       <center>
+        <img src="https://i.imgur.com/k41FWqn.png?1" />
+      </center>
+      <center>
         <i>
           <h4>To reuse, to recycle, to be resourceful New Yorkers.</h4>
         </i>
